@@ -1,5 +1,5 @@
 # MinMeanDistanceClassifier
-It is simple model to perform classification of character sequences such as DNA sequences
+It is a simple model to perform classification of character sequences such as DNA sequences implemented via R6 class
 ## Requirements
 The model requires following packeges:
 - R6
